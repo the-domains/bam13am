@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[bam13am]]></title>
+        <description><![CDATA[bam13am]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Jun 2016 17:05:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[True Beauty Lies Within]]></title>
+            <description><![CDATA[<article><h1>True Beauty Lies Within</h1><p>We all have heard of this wonderful quote before, and I want to break it down, get deeper, and dissect what it really means to be beautiful from within, and what happens when you are? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e980a2a82189129e05ad3a2be13fba673d86cb8.jpg"></article>]]></description>
+            <link>undefinedtrue-beauty-lies-within/index.html</link>
+            <guid isPermaLink="false">4760f5cb-efc5-46f7-95f2-6289ea028931</guid>
+            <pubDate>Wed, 15 Jun 2016 17:05:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
